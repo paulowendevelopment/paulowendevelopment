@@ -1,0 +1,16 @@
+{
+  "name": "startingts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cryptr": "^4.0.1",
+    "@types/xrm": "^9.0.45",
+    "cryptr": "^6.0.2"
+  }
+}
